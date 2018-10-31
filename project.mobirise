@@ -59,7 +59,7 @@
             "overlayOpacity": 0.5
           },
           "header": "Social Media Image Shares FOR<br>YES ON PROP 5 | NO ON PROP 10",
-          "subheader": "The images below are designed to be shared on Facebook, Instagram, Twitter, and other social media channels.&nbsp;<b>To download the images, right-click on the image and select \"Save Image As\".</b><br>",
+          "subheader": "The images below are designed to be shared on Facebook, Instagram, and Twitter.<br><br><b>To download the images:</b><br>1 – Right-click on the image you wish to save.<br>2 – Click \"Save  picture as\"…<br>3 – Navigate to the folder where you wish to save the image to, then click Save.<b><br></b><br>",
           "media1": {
             "image": {
               "active": true,
@@ -77,7 +77,7 @@
           },
           "title1": "Post Week Before Voting",
           "subtitle1": "Founder",
-          "caption1": "",
+          "caption1": "Download and post to your social media channels the week before Election Day.",
           "links1": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
           "media2": {
             "image": {
@@ -96,7 +96,7 @@
           },
           "title2": "Post Day Before Voting",
           "subtitle2": "Reception",
-          "caption2": "",
+          "caption2": "Download and post to your social media channels the day before Election Day.",
           "links2": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
           "media3": {
             "image": {
@@ -115,7 +115,7 @@
           },
           "title3": "Post Day of Voting",
           "subtitle3": "Sales Team",
-          "caption3": "",
+          "caption3": "Download and post to your social media channels the day of Election Day.",
           "links3": "<li><a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"fa fa-facebook\"></i></a></li><li><a class=\"social fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a></li><li><a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a></li>",
           "alias": "unicore/components",
           "_tags": [
